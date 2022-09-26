@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">README PRÁCTICA 2 - Visual Studio Code </h3>
+  <h3 align="center">README PRÁCTICA - Setup </h3>
 
   <p align="center">
     Instalando extensiones vscode que usaremos
